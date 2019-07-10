@@ -1,5 +1,5 @@
 run:
-	python -m src
+	@python -m src
 
 test:
 	ENV=test python -m unittest
