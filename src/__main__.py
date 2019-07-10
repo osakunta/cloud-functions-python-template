@@ -1,6 +1,5 @@
-def main():
-    print('Hello, World!')
+from src.app import app
 
 
 if __name__ == '__main__':
-    main()
+    print(app())
