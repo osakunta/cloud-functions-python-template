@@ -4,7 +4,7 @@ cloud-functions-python-template
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/be2ab5b8f0bb462ea16814c1a78603ea)](https://www.codacy.com/app/V-Kopio/cloud-functions-python-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=osakunta/cloud-functions-python-template&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/be2ab5b8f0bb462ea16814c1a78603ea)](https://www.codacy.com/app/V-Kopio/cloud-functions-python-template?utm_source=github.com&utm_medium=referral&utm_content=osakunta/cloud-functions-python-template&utm_campaign=Badge_Coverage)
 
-Used as a template for Python Cloud Functions
+This project is a template for Python APIs that are hosted on Google Cloud Functions.
 
 Setting up CI
 -------------
