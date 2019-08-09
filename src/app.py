@@ -1,2 +1,2 @@
-def hello_world(request):
+def app():
     return 'Hello, World!'
