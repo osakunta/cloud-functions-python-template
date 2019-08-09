@@ -1,8 +1,8 @@
 Python-template
 ===============
-[![Build Status](https://travis-ci.org/osakunta/cloud-functions-python-template.svg?branch=master)](https://travis-ci.org/osakunta/cloud-functions-python-template)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/be2ab5b8f0bb462ea16814c1a78603ea)](https://www.codacy.com/app/V-Kopio/cloud-functions-python-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=osakunta/cloud-functions-python-template&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/be2ab5b8f0bb462ea16814c1a78603ea)](https://www.codacy.com/app/V-Kopio/cloud-functions-python-template?utm_source=github.com&utm_medium=referral&utm_content=osakunta/cloud-functions-python-template&utm_campaign=Badge_Coverage)
+[![Build Status](https://travis-ci.org/osakunta/python-template.svg?branch=master)](https://travis-ci.org/osakunta/python-template)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a7b1e223cd874c41a12211c148620171)](https://www.codacy.com/app/Osakunta/python-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=osakunta/python-template&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/a7b1e223cd874c41a12211c148620171)](https://www.codacy.com/app/Osakunta/python-template?utm_source=github.com&utm_medium=referral&utm_content=osakunta/python-template&utm_campaign=Badge_Coverage)
 
 This repository is a generic template for Python projects.
 
