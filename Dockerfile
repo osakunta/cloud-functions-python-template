@@ -9,3 +9,5 @@ COPY Pipfile* ./
 RUN pipenv install --system --deploy
 
 COPY src/ ./src
+
+CMD ["python", "-m", "src"]
